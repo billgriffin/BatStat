@@ -1,0 +1,357 @@
+first,last,tournament,date,year,day,game,atbat,ball,outcome,location
+Paul,Carpenter,Pinetop1,2021-09-15,2021,1,1,1,Fly,Single,Center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,1,1,2,Fly,Single,Center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,1,1,3,Fly,Double,Left-center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,1,2,1,Fly,Single,Left
+Paul,Carpenter,Pinetop1,2021-09-15,2021,1,2,2,Fly,Single,Left-center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,2,1,1,Fly,Single,Center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,2,1,2,Fly,Double,Left-center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,2,1,3,Walk,Walk,Walk
+Paul,Carpenter,Pinetop1,2021-09-15,2021,2,2,3,Fly,Single,Left-center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,2,2,1,Fly,Single,Left
+Paul,Carpenter,Pinetop1,2021-09-15,2021,2,2,2,Fly,Single,Center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,3,1,1,Fly,Single,Left
+Paul,Carpenter,Pinetop1,2021-09-15,2021,3,1,2,Fly,Double,Center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,3,1,3,Walk,Walk,Walk
+Paul,Carpenter,Pinetop1,2021-09-15,2021,3,2,1,Walk,Walk,Walk
+Paul,Carpenter,Pinetop1,2021-09-15,2021,3,2,2,Fly,Out,Left-center
+Paul,Carpenter,Pinetop1,2021-09-15,2021,3,2,3,Fly,Single,Center
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,1,1,Fly,Single,Center
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,1,2,Walk,Walk,Walk
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,1,3,Fly,Double,Right-center
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,1,4,Fly,Out,Left
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,2,1,Fly,Double,Left-center
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,2,2,Fly,Single,Left
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,2,3,Fly,Single,Center
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,3,1,Fly,Sacrifice,Left-center
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,3,2,Fly,Sacrifice,Left
+Paul,Carpenter,Prescott1,2021-09-15,2021,1,3,3,Fly,Single,Center
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,1,1,Fly,Out,Center
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,1,2,Fly,Single,Center
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,1,3,Fly,Single,Left
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,2,1,Fly,Triple,Right-center
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,2,2,Fly,Single,Center
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,2,3,Fly,Out,Left-center
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,3,1,Fly,Single,Left
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,3,2,Fly,Double,Left
+Paul,Carpenter,Prescott1,2021-09-15,2021,2,3,3,Fly,Single,Center
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,1,1,Fly,Single,Left
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,1,2,Fly,Single,Left
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,2,1,Fly,Single,Center
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,2,2,Fly,Single,Left
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,3,1,Fly,Single,Left
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,4,2,Fly,Single,Right-center
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,4,3,Fly,Single,Right-center
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,3,1,Fly,Out,Left
+Paul,Carpenter,Prescott2,2021-09-15,2021,1,4,1,Fly,Out,Center
+Paul,Carpenter,Sacramento,2021-09-15,2021,1,1,1,Fly,Single,Center
+Paul,Carpenter,Sacramento,2021-09-15,2021,1,1,2,Fly,Single,Left
+Paul,Carpenter,Sacramento,2021-09-15,2021,1,1,3,Fly,Single,Center
+Paul,Carpenter,Sacramento,2021-09-15,2021,1,2,1,Fly,Out,Left
+Paul,Carpenter,Sacramento,2021-09-15,2021,1,2,2,Grounder,Out,Left
+Paul,Carpenter,Sacramento,2021-09-15,2021,1,2,3,Fly,Double,Left
+Paul,Carpenter,Sacramento,2021-09-15,2021,2,1,1,Grounder,Out,Left-center
+Paul,Carpenter,Sacramento,2021-09-15,2021,2,1,2,Line Drive,Out,Left
+Paul,Carpenter,Sacramento,2021-09-15,2021,2,1,3,Grounder,Out,Left-center
+Paul,Carpenter,Sacramento,2021-09-15,2021,2,2,1,Line Drive,Out,Left-center
+Paul,Carpenter,Sacramento,2021-09-15,2021,2,2,2,Fly,Sacrifice,Left-center
+Paul,Carpenter,Sacramento,2021-09-15,2021,2,2,3,Fly,Single,Center
+Paul,Carpenter,Sacramento,2021-09-15,2021,3,1,1,Line Drive,Single,Left-center
+Paul,Carpenter,Sacramento,2021-09-15,2021,3,1,2,Line Drive,Out,Left
+Paul,Carpenter,Sacramento,2021-09-15,2021,3,1,3,Walk,Walk,Walk
+Paul,Carpenter,Payson1,2021-09-15,2021,1,1,1,Grounder,Single,Center
+Paul,Carpenter,Payson1,2021-09-15,2021,1,1,2,Line Drive,Out,Left-center
+Paul,Carpenter,Payson1,2021-09-15,2021,1,2,1,Fly,Single,Center
+Paul,Carpenter,Payson1,2021-09-15,2021,1,2,2,Grounder,Single,Center
+Paul,Carpenter,Payson1,2021-09-15,2021,2,1,1,Fly,Out,Right-center
+Paul,Carpenter,Payson1,2021-09-15,2021,2,1,2,Grounder,Single,Left-center
+Paul,Carpenter,Payson1,2021-09-15,2021,2,1,3,Grounder,Out,Center
+Paul,Carpenter,Payson1,2021-09-15,2021,2,2,1,Line Drive,Out,Left-center
+Paul,Carpenter,Payson1,2021-09-15,2021,2,2,2,Fly,Single,Left-center
+Paul,Carpenter,Payson1,2021-09-15,2021,2,2,3,Walk,Walk,Walk
+Paul,Carpenter,Payson1,2021-09-15,2021,3,1,1,Fly,Single,Left-center
+Paul,Carpenter,Payson1,2021-09-15,2021,3,1,2,Line Drive,Out,Center
+Paul,Carpenter,Payson1,2021-09-15,2021,3,1,3,Grounder,Out,Left-center
+Paul,Carpenter,Payson1,2021-09-15,2021,3,2,1,Walk,Walk,Walk
+Paul,Carpenter,Payson1,2021-09-15,2021,3,2,4,Fly,Double,Center
+Paul,Carpenter,Payson1,2021-09-15,2021,3,2,5,Grounder,Single,Left
+Paul,Carpenter,Payson1,2021-09-15,2021,3,3,1,Fly,Single,Left-center
+Paul,Carpenter,Payson1,2021-09-15,2021,3,3,2,Grounder,Single,Left-center
+Paul,Carpenter,Payson1,2021-09-15,2021,3,3,3,Fly,Out,Right-center
+Paul,Carpenter,Worlds,2021-09-15,2021,1,1,1,Grounder,Single,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,1,1,2,Fly,Out,Right-center
+Paul,Carpenter,Worlds,2021-09-15,2021,1,1,3,Line Drive,Double,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,1,2,1,Grounder,Single,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,1,2,2,Line Drive,Out,Left-center
+Paul,Carpenter,Worlds,2021-09-15,2021,1,2,3,Fly,Double,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,2,1,1,Fly,Sacrifice,Left-center
+Paul,Carpenter,Worlds,2021-09-15,2021,2,1,2,Grounder,Out,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,2,1,3,Line Drive,Single,Left-center
+Paul,Carpenter,Worlds,2021-09-15,2021,3,1,1,Fly,Out,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,3,1,2,Fly,Out,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,3,1,3,Line Drive,Single,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,3,1,4,Line Drive,Double,Left-center
+Paul,Carpenter,Worlds,2021-09-15,2021,4,1,1,Grounder,Out,Left-center
+Paul,Carpenter,Worlds,2021-09-15,2021,4,1,2,Line Drive,Single,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,4,1,3,Walk,Walk,Walk
+Paul,Carpenter,Worlds,2021-09-15,2021,4,2,1,Grounder,Single,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,4,2,2,Line Drive,Single,Left-center
+Paul,Carpenter,Worlds,2021-09-15,2021,4,2,3,Fly,Out,Left
+Paul,Carpenter,Worlds,2021-09-15,2021,4,3,1,Grounder,Out,Left-center
+Paul,Carpenter,Worlds,2021-09-15,2021,4,3,2,Grounder,Single,Left-center
+Paul,Carpenter,Worlds,2021-09-15,2021,4,3,3,Fly,Out,Right-center
+Paul,Carpenter,Worlds,2021-09-15,2021,4,3,4,Line Drive,Single,Left
+Paul,Carpenter,Payson1,2021-09-15,2021,3,2,2,Line Drive,Single,Left
+Paul,Carpenter,Payson1,2021-09-15,2021,3,2,3,Grounder,Single,Left
+Paul,Carpenter,Goodyear1,2022-09-15,2022,1,1,1,Line Drive,Out,Left
+Paul,Carpenter,Goodyear1,2022-09-15,2022,1,1,2,Grounder,Out,Left-center
+Paul,Carpenter,Goodyear1,2022-09-15,2022,1,1,3,Grounder,Single,Left-center
+Paul,Carpenter,Goodyear1,2022-09-15,2022,1,2,1,Line Drive,Single,Left
+Paul,Carpenter,Goodyear1,2022-09-15,2022,1,2,2,Grounder,Single,Left-center
+Paul,Carpenter,Goodyear1,2022-09-15,2022,1,2,3,Line Drive,Single,Left
+Paul,Carpenter,Goodyear1,2022-09-15,2022,2,1,1,Fly,Double,Center
+Paul,Carpenter,Goodyear1,2022-09-15,2022,2,1,2,Fly,Double,Left-center
+Paul,Carpenter,Goodyear1,2022-09-15,2022,2,2,1,Fly,Double,Left
+Paul,Carpenter,Goodyear1,2022-09-15,2022,2,2,2,Line Drive,Single,Left-center
+Paul,Carpenter,Goodyear1,2022-09-15,2022,3,1,1,Walk,Walk,Walk
+Paul,Carpenter,Goodyear1,2022-09-15,2022,3,1,2,Walk,Walk,Walk
+Paul,Carpenter,Goodyear1,2022-09-15,2022,3,1,3,Walk,Walk,Walk
+Paul,Carpenter,Goodyear1,2022-09-15,2022,3,2,1,Fly,Sacrifice,Left
+Paul,Carpenter,Goodyear1,2022-09-15,2022,3,2,2,Fly,Out,Left
+Paul,Carpenter,Goodyear1,2022-09-15,2022,3,2,3,Line Drive,Double,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,1,1,1,Line Drive,Single,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,1,1,2,Line Drive,Single,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,1,1,3,Line Drive,Single,Left
+Paul,Carpenter,BullHead,2022-09-15,2022,1,2,1,Grounder,Out,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,1,2,2,Line Drive,Single,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,1,2,3,Grounder,Out,Center
+Paul,Carpenter,BullHead,2022-09-15,2022,2,1,1,Line Drive,Single,Left
+Paul,Carpenter,BullHead,2022-09-15,2022,2,1,2,Line Drive,Out,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,2,1,3,Grounder,Single,Right-center
+Paul,Carpenter,BullHead,2022-09-15,2022,2,2,1,Line Drive,Out,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,2,2,2,Walk,Walk,Walk
+Paul,Carpenter,BullHead,2022-09-15,2022,2,2,3,Fly,Sacrifice,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,2,2,4,Grounder,Out,Left
+Paul,Carpenter,BullHead,2022-09-15,2022,3,1,1,Grounder,Single,Left
+Paul,Carpenter,BullHead,2022-09-15,2022,3,1,2,Grounder,Single,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,1,3,Line Drive,Double,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,1,4,Line Drive,Single,Right-center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,2,1,Line Drive,Single,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,2,2,Grounder,Single,Right-center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,2,3,Pop Up,Out,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,2,4,Line Drive,Single,Right-center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,3,1,Grounder,Out,Left-center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,3,2,Fly,Single,Left
+Paul,Carpenter,BullHead,2022-09-15,2022,3,3,3,Line Drive,Out,Center
+Paul,Carpenter,BullHead,2022-09-15,2022,3,3,4,Grounder,Out,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,1,1,1,Line Drive,Single,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,1,1,2,Fly,Double,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,1,1,3,Line Drive,Single,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,1,2,1,Walk,Walk,Walk
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,1,2,2,Fly,Out,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,1,2,3,Line Drive,Single,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,2,1,1,Line Drive,Single,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,2,1,2,Grounder,Single,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,2,1,3,Line Drive,Out,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,2,2,1,Line Drive,Out,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,2,2,2,Fly,Single,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,2,2,3,Fly,Out,Right-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,1,1,Grounder,Out,Center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,1,2,Grounder,Out,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,1,3,Fly,Out,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,1,4,Line Drive,Double,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,2,1,Line Drive,Single,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,2,2,Line Drive,Single,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,2,3,Line Drive,Out,Center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,2,4,Fly,Sacrifice,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,3,1,Line Drive,Double,Left-center
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,3,2,Grounder,Out,Left
+Paul,Carpenter,WinterWorlds,2022-09-15,2022,3,3,3,Fly,Single,Left
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,1,1,Fly,Single,Left
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,1,2,Fly,Out,Left
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,1,3,Fly,Single,Left
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,2,1,Line Drive,Out,Left-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,2,2,Fly,Single,Left-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,2,3,Grounder,Out,Center
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,2,4,Walk,Walk,Walk
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,3,1,Fly,Out,Right-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,3,2,Fly,Single,Left-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,3,3,Grounder,Out,Center
+Paul,Carpenter,ToysTots,2022-09-15,2022,1,3,4,Fly,Single,Left
+Paul,Carpenter,ToysTots,2022-09-15,2022,2,1,1,Grounder,Out,Left-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,2,1,2,Grounder,Out,Left-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,2,1,3,Grounder,Single,Left
+Paul,Carpenter,ToysTots,2022-09-15,2022,2,1,4,Fly,Single,Right-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,2,2,1,Fly,Sacrifice,Right-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,2,2,2,Grounder,Single,Left
+Paul,Carpenter,ToysTots,2022-09-15,2022,2,2,3,Line Drive,Out,Left-center
+Paul,Carpenter,ToysTots,2022-09-15,2022,2,2,4,Grounder,Single,Left-center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,1,1,1,Fly,Single,Left
+Paul,Carpenter,GoldGlove,2022-09-15,2022,1,1,2,Line-Drive,Single,Left-center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,1,1,3,Fly,Single,Left
+Paul,Carpenter,GoldGlove,2022-09-15,2022,1,2,1,Grounder,Single,Left
+Paul,Carpenter,GoldGlove,2022-09-15,2022,1,2,2,Line-Drive,Single,Left-center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,1,2,3,Fly,Out,Center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,1,3,1,Grounder,Out,Left-center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,1,3,2,Line-Drive,Single,Right-center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,2,1,1,Walk,Walk,Walk
+Paul,Carpenter,GoldGlove,2022-09-15,2022,2,1,2,Fly,Out,Right-center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,2,1,3,Line-Drive,Single,Right-center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,2,2,1,Line-Drive,Single,Left-center
+Paul,Carpenter,GoldGlove,2022-09-15,2022,2,2,2,Grounder,Out,Left
+Paul,Carpenter,GoldGlove,2022-09-15,2022,2,2,3,Fly,Single,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,1,1,Fly,Single,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,1,2,Line-Drive,Single,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,1,3,Fly,Out,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,2,1,Grounder,Out,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,2,2,Grounder,Single,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,2,3,Fly,Single,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,3,1,Walk,Walk,Walk
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,3,2,Grounder,Out,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,3,3,Walk,Walk,Walk
+Paul,Carpenter,FountainHills1,2022-09-15,2022,1,3,4,Fly,Out,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,1,1,Fly,Out,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,1,2,Line-Drive,Single,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,1,3,Grounder,Single,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,1,4,Walk,Walk,Walk
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,2,1,Fly,Single,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,2,2,Grounder,Single,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,2,3,Grounder,Single,Left
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,2,4,Line-Drive,Out,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,3,1,Grounder,Single,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,3,2,Grounder,Out,Left-center
+Paul,Carpenter,FountainHills1,2022-09-15,2022,2,3,3,Line-Drive,Single,Left
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,1,1,Grounder,Out,Left
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,1,2,Line Drive,Single,Left-center
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,1,3,Line Drive,Single,Left
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,1,4,Line Drive,Single,Left
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,2,1,Line Drive,Single,Left
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,3,1,Walk,Walk,Walk
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,3,2,Line Drive,Single,Left-center
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,3,3,Line Drive,Single,Left
+Paul,Carpenter,FountainHills2,2022-09-15,2022,1,3,4,Walk,Walk,Walk
+Paul,Carpenter,FountainHills2,2022-09-15,2022,2,1,1,Line Drive,Double,Left-center
+Paul,Carpenter,FountainHills2,2022-09-15,2022,2,1,2,Line Drive,Single,Left
+Paul,Carpenter,FountainHills2,2022-09-15,2022,2,1,3,Grounder,Out,Left-center
+Paul,Carpenter,FountainHills2,2022-09-15,2022,2,2,1,Line Drive,Single,Left-center
+Paul,Carpenter,FountainHills2,2022-09-15,2022,2,2,2,Line Drive,Out,Left-center
+Paul,Carpenter,FountainHills2,2022-09-15,2022,2,2,3,Grounder,Out,Right-center
+Paul,Carpenter,FountainHills2,2022-09-15,2022,2,2,4,Grounder,Out,Left-center
+Paul,Carpenter,FountainHills2,2022-09-15,2022,2,2,5,Walk,Walk,Walk
+Paul,Carpenter,SWChamp,2022-09-15,2022,1,1,1,Grounder,Out,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,1,1,2,Walk,Walk,Walk
+Paul,Carpenter,SWChamp,2022-09-15,2022,1,1,3,Grounder,Out,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,1,2,1,Line Drive,Single,Right-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,1,2,2,Fly,Triple,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,1,2,3,Fly,Out,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,2,1,1,Line Drive,Single,Right-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,2,1,2,Line Drive,Single,Right-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,2,1,3,Grounder,Single,Right-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,2,2,1,Grounder,Single,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,2,2,2,Line Drive,Single,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,2,2,3,Fly,Out,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,2,2,4,Line Drive,Single,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,1,1,Line Drive,Single,Center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,1,2,Line Drive,Single,Center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,1,3,Line Drive,Single,Center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,1,4,Walk,Walk,Walk
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,2,1,Grounder,Out,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,2,2,Grounder,Out,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,3,1,Fly,Double,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,3,2,Walk,Walk,Walk
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,3,3,Walk,Walk,Walk
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,3,4,Walk,Walk,Walk
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,4,1,Line Drive,Single,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,4,2,Grounder,Out,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,4,3,Line Drive,Single,Left-center
+Paul,Carpenter,SWChamp,2022-09-15,2022,3,4,4,Grounder,Single,Left-center
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,1,1,Grounder,Single,Center
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,1,2,Fly,Out,Left-center
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,1,3,Fly,Double,Left-center
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,2,1,Line Drive,Single,Left
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,2,2,Line Drive,Single,Left
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,2,3,Line Drive,Single,Left
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,2,4,Grounder,Out,Left-center
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,3,1,Grounder,Out,Left-center
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,3,2,Struck Out,Out,Center
+Paul,Carpenter,Prescott1,2022-09-15,2022,1,3,3,Fly,Double,Left
+Paul,Carpenter,Prescott1,2022-09-15,2022,2,1,1,Fielder's Choice,Out,Center
+Paul,Carpenter,Prescott1,2022-09-15,2022,2,1,2,Grounder,Out,Left
+Paul,Carpenter,Prescott1,2022-09-15,2022,2,1,3,Line Drive,Single,Right-center
+Paul,Carpenter,Prescott1,2022-09-15,2022,2,2,1,Fly,Double,Center
+Paul,Carpenter,Prescott1,2022-09-15,2022,2,2,2,Grounder,Single,Center
+Paul,Carpenter,Prescott1,2022-09-15,2022,2,2,3,Fly,Double,Left
+Paul,Carpenter,Prescott1,2022-09-15,2022,2,2,4,Walk,Walk,Walk
+Paul,Carpenter,Worlds,2022-10-03,2022,1,1,1,Fly,Single,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,1,1,2,Fly,Out,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,1,1,3,Walk,Walk,Walk
+Paul,Carpenter,Worlds,2022-10-03,2022,1,1,4,Fly,Out,Right-center
+Paul,Carpenter,Worlds,2022-10-03,2022,1,2,1,Fly,Single,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,1,2,2,Line Drive,Single,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,1,2,3,Strike Out,Out,Strike Out
+Paul,Carpenter,Worlds,2022-10-03,2022,1,2,4,Line Drive,Single,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,2,1,1,Grounder,Out,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,2,1,2,Line Drive,Single,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,2,1,3,Line Drive,Single,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,2,1,4,Grounder,Out,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,2,2,1,Fly,Out,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,2,2,2,Fly,Single,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,2,2,3,Fly,Single,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,3,1,1,Fly,Single,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,3,1,2,Fly,Single,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,3,1,3,Fly,Single,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,3,1,4,Fly,Out,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,3,2,1,Fly,Double,Center
+Paul,Carpenter,Worlds,2022-10-03,2022,3,2,2,Grounder,Out,Center
+Paul,Carpenter,Worlds,2022-10-03,2022,3,2,3,Fly,Single,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,4,1,1,Fly,Sacrifice,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,4,1,2,Grounder,Out,Left
+Paul,Carpenter,Worlds,2022-10-03,2022,4,1,3,Grounder,Out,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,4,1,4,Walk,Walk,Walk
+Paul,Carpenter,Worlds,2022-10-03,2022,4,2,1,Fly,Out,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,4,2,2,Fly,Out,Left-center
+Paul,Carpenter,Worlds,2022-10-03,2022,4,2,3,Fly,Out,Left-center
+Paul,Carpenter,Payson,2022-09-08,2022,1,1,1,Walk,Walk,Walk
+Paul,Carpenter,Payson,2022-09-08,2022,1,1,2,Fly,Out,Left
+Paul,Carpenter,Payson,2022-09-08,2022,1,2,1,Fly,Double,Left-center
+Paul,Carpenter,Payson,2022-09-08,2022,1,2,2,Line Drive,Single,Left
+Paul,Carpenter,Payson,2022-09-08,2022,2,1,1,Line Drive,Single,Left
+Paul,Carpenter,Payson,2022-09-08,2022,2,1,2,Line Drive,Single,Left
+Paul,Carpenter,Payson,2022-09-08,2022,2,1,3,Fly,Single,Left
+Paul,Carpenter,Payson,2022-09-08,2022,2,2,1,Line Drive,Single,Left-center
+Paul,Carpenter,Payson,2022-09-08,2022,2,2,2,Line Drive,Single,Right-center
+Paul,Carpenter,Payson,2022-09-08,2022,2,2,3,Fielder's Choice,Out,Left-center
+Paul,Carpenter,Payson,2022-09-08,2022,2,3,1,Line Drive,Single,Left
+Paul,Carpenter,Payson,2022-09-08,2022,2,3,2,Fly,Double,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,1,1,1,Grounder,Single,Left
+Paul,Carpenter,Pine Top,2022-07-08,2022,1,1,2,Line Drive,Single,Left
+Paul,Carpenter,Pine Top,2022-07-08,2022,1,1,3,Line Drive,Single,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,1,1,1,Line Drive,Single,Left
+Paul,Carpenter,Pine Top,2022-07-08,2022,1,2,2,Line Drive,Single,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,1,2,3,Line Drive,Single,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,2,1,1,Grounder,Single,Left
+Paul,Carpenter,Pine Top,2022-07-08,2022,2,1,2,Line Drive,Single,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,2,1,3,Line Drive,Single,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,2,2,1,Fly,Sacrifice,Left
+Paul,Carpenter,Pine Top,2022-07-08,2022,2,2,2,Grounder,Single,Center
+Paul,Carpenter,Pine Top,2022-07-08,2022,2,2,3,Line Drive,Single,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,3,1,1,Walk,Walk,Walk
+Paul,Carpenter,Pine Top,2022-07-08,2022,3,1,2,Grounder,Single,Left
+Paul,Carpenter,Pine Top,2022-07-08,2022,3,1,3,Line Drive,Single,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,3,1,4,Walk,Walk,Walk
+Paul,Carpenter,Pine Top,2022-07-08,2022,3,2,1,Fly,Out,Left-center
+Paul,Carpenter,Pine Top,2022-07-08,2022,3,2,2,Fly,Out,Center
+Paul,Carpenter,Pine Top,2022-07-08,2022,3,2,3,Grounder,Single,Left
+Paul,Carpenter,Pine Top,2022-07-08,2022,3,2,4,Walk,Walk,Walk
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,1,1,1,Walk,Walk,Walk
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,1,1,2,Fly,Out,Left
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,1,2,1,Fly,Double,Left-center
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,1,2,2,Line Drive,Single,Left
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,2,1,1,Line Drive,Single,Left
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,2,1,2,Line Drive,Single,Left
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,2,1,3,Fly,Single,Left
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,2,2,1,Line Drive,Single,Left-center
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,2,2,2,Line Drive,Single,Right-center
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,2,2,3,Fielder's Choice,Out,Left-center
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,2,3,1,Line Drive,Single,Left
+Paul,Carpenter,Payson_Sept,2022-09-08,2022,2,3,2,Fly,Double,Left
